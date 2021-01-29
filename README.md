@@ -24,3 +24,7 @@ Then, put a colour (almost its black) in 23, 26, 29, 32 lines
 [0] - red colour; 
 [1] - green colour; 
 [2] - blue colour; 
+
+Any questions?? Contact me
+
+t.me/snappy
